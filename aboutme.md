@@ -1,16 +1,7 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Why I chose to take this class
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I have always been really interested in technology and the internet. As a self-proclaimed iPad kid, sometimes I find the digital world to be a bit more entertaining and fullfilling to spend time on compared to spending time outside. But that's probably because I'm from Florida where the weather is like a bajillion degrees all the time. As a first year who is still undecided in what they want to major in, I figured that I might as well take full advantage of the liberal arts cirriculum that is offered here at Williams College and take a class about computer science. What I found really interesting about this course was how it was going to combine the digital
