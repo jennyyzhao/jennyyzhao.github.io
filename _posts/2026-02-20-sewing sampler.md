@@ -1,3 +1,4 @@
+---
 layout: post
 title: About me
 gh-repo: daattali/beautiful-jekyll
