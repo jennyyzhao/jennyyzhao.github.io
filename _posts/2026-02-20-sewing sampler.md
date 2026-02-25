@@ -1,6 +1,6 @@
 ---
 layout: post
-title: About me
+title: Sewing Sampler Assignment
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
