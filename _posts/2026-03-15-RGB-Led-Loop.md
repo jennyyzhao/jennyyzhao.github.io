@@ -13,5 +13,6 @@ author: Jenny Zhao
 In this assignment, I was tasked to code a program that would cycle through the colors of red, green, and blue on the arduino board. One tip for my past self would be to make sure that the code has uploaded before changing it because the current code that I have might work it just hasn't been uploaded to the board yet. 
 
 ![RGBledloop](https://jennyyzhao.github.io/assets/img/rgbledloop1.png)
+Iris told me this is okay here is the url: https://jennyyzhao.github.io/assets/img/rgbledloop1.png. 
 
 
