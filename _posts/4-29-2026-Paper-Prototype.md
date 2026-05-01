@@ -11,6 +11,6 @@ author: Jenny Zhao
 
 #### Paper Prototype!
 For my CS 103 final project, I'll be making a bookmark that keeps track of how long you've gone without reading using a light sensor and will remind you to resume reading by beeping on the buzzer. 
-Here is a photo of my project proposal!
+Here is a photo of my prototype!
 
-![Project Proposal](https://jennyyzhao.github.io/assets/img/paperprototype.jpg)
+![Project Proposal](https://jennyyzhao.github.io/assets/img/paperprototype1.jpg)
