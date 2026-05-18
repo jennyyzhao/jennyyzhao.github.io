@@ -18,18 +18,18 @@ My bookmark works by using a light sensor to detect whether or not the book is o
 Here is a photo of my output!
 
 __Comprehensive Materials List:__
-⋅⋅⋅⋅* 1 LilyPad Arduino
-⋅⋅⋅⋅* 1 LilyPad Buzzer
-⋅⋅⋅⋅* 1 LilyPad Light Sensor
-⋅⋅⋅⋅* 1 LilyPad Switch
-⋅⋅⋅⋅* 2 Lilypad Red LEDs
-⋅⋅⋅⋅* Conductive Thread
-⋅⋅⋅⋅* Muslim Fabric
-⋅⋅⋅⋅* Green Embroidery Floss
-⋅⋅⋅⋅* Embroidery Hoop
-⋅⋅⋅⋅* Tape
-⋅⋅⋅⋅* Scissors 
-⋅⋅⋅⋅* Needles
+* 1 LilyPad Arduino
+* 1 LilyPad Buzzer
+* 1 LilyPad Light Sensor
+* 1 LilyPad Switch
+* 2 Lilypad Red LEDs
+* Conductive Thread
+* Muslim Fabric
+* Green Embroidery Floss
+* Embroidery Hoop
+* Tape
+* Scissors 
+* Needles
 
 __Revised Paper Prototype:__
 ![RevisedPaperPrototype](https://jennyyzhao.github.io/assets/img/RevisedPaperPrototype.jpg)
