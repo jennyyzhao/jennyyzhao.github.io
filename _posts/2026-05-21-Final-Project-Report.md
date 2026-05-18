@@ -32,13 +32,13 @@ __Comprehensive Materials List:__
 ⋅⋅⋅⋅* Needles
 
 __Revised Paper Prototype:__
-![RevisedPaperPrototype](https://jennyyzhao.github.io/assets/img/arrays.jpg)
+![RevisedPaperPrototype](https://jennyyzhao.github.io/assets/img/RevisedPaperPrototype.jpg)
 
 __Alligator Prototype Working:__
-![AlligatorPrototype](https://jennyyzhao.github.io/assets/img/arrays.jpg)
+![AlligatorPrototype](https://jennyyzhao.github.io/assets/img/alligatorprototype.jpg)
 
 __Project Working:__
-Here is the url to the video of my project working: 
+Here is the url to the video of my project working: https://drive.google.com/file/d/1s4v_T897Q-4uVJ6AbvaHgjeikAzdwlcW/view?usp=sharing
 
 __3 Tips to my Past Self:__
 1. 
