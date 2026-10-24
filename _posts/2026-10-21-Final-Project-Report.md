@@ -15,7 +15,6 @@ For my final project, I decided to create a bookmark that would remind me to com
 
 __Project Description:__
 My bookmark works by using a light sensor to detect whether or not the book is open or closed. After a certain amount of time has passed, the buzzer will start beeping and the LEDs will start flashing and the only way to make it stop is by taking your bookmark out of the book and to resume your homework. The switch turns the whole system on and off so that way when you have no work to do in an urgent manner you can just use it as a normal bookmark. 
-Here is a photo of my output!
 
 __Comprehensive Materials List:__
 * 1 LilyPad Arduino
