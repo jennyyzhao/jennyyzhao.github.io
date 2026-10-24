@@ -41,6 +41,7 @@ __Project Working:__
 Here is the url to the video of my project working: https://drive.google.com/file/d/1s4v_T897Q-4uVJ6AbvaHgjeikAzdwlcW/view?usp=sharing
 
 __3 Tips to my Past Self:__
+
 1. Sew everything more tightly so that way the traces are connected
 
 My project was a bit finnicky during the project demonstration day and after I talked to Iris about it she said that it didn't look like any of my traces were touching so there was another issue. After I was fiddling around with my project to try and get it to work for the video I realized that when I moved the conductive thread closer to the connection on the switch that the project began working more consistently.
